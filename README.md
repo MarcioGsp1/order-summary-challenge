@@ -6,8 +6,8 @@ This is a solution to the [Order summary card challenge on Frontend Mentor](http
 
 ### Links
 
-- Solution URL: https://www.frontendmentor.io/solutions/order-summary-UuCY2TAs-B
-- Live Site URL: https://order-summary-challenge-pne0qzcd6-marciogsp1.vercel.app
+<a href="https://www.frontendmentor.io/solutions/order-summary-UuCY2TAs-B" target="_blank">Solution URL</a> <br>
+<a href="https://order-summary-challenge-pne0qzcd6-marciogsp1.vercel.app" target="_blank">Live Site URL</a>
 
 ### Built with
 
